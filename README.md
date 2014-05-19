@@ -15,7 +15,7 @@ by using JSONP or configuring server to use Cross-Origin Resource Sharing (CORS)
 
 ## Prerequisites
 
-* Node.JS
+* Node.JS (with npm)
 * Bower
 ```bash
 npm install -g bower
@@ -28,7 +28,7 @@ npm install -g grunt
 From the root app directory run:
 ```bash
 npm install
-grunt install
+bower install
 ```
 ## Run
 Execute example by:
